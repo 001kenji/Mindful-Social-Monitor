@@ -1,4 +1,4 @@
-# 🌐 Mindful Social Monitor
+# 🌐 Mindful Social Monitor <sub>(extension)</sub>
 
 Take control of your browsing time
 
