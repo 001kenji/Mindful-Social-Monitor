@@ -38,8 +38,11 @@ Below are some screenshots to help you see how it works:
 ### 🔹 Popup Interface  
 ![Popup](./1.png)
 
-### 🔹 Time Limit Settings  
+### 🔹 Popup Time Limit 
 ![Settings](./2.png)
+
+### 🔹 Time Limit Settings  
+![Settings](./4.png)
 
 ### 🔹 Limit Reached (Notification)  
 ![Blocked](./3.png)
