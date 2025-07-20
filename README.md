@@ -42,7 +42,7 @@ Below are some screenshots to help you see how it works:
 ![Settings](./2.png)
 
 ### 🔹 Time Limit Settings  
-![Settings](./4.png)
+![Settings](./7.png)
 
 ### 🔹 Limit Reached (Notification)  
 ![Blocked](./3.png)
