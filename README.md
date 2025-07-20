@@ -31,5 +31,17 @@ Whether you're working, studying, or simply trying to limit distractions, this e
 This extension **does not collect or share any of your personal information**. Everything is stored privately in your browser.
 
 ---
+## 📸 Screenshots
+
+Below are some screenshots to help you see how it works:
+
+### 🔹 Popup Interface  
+![Popup](./1.png)
+
+### 🔹 Time Limit Settings  
+![Settings](./2.png)
+
+### 🔹 Limit Reached (Notification)  
+![Blocked](./3.png)
 
 Thank you for using Mindful Social Monitor! We hope it helps you take back your time.
